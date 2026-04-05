@@ -3,12 +3,12 @@
 <h2 align="left">Olá, eu sou o Mauricio Spark! 💰💪😎</h2>
 
 
-
+###
 <img align="right" height="115" src="https://cdn.discordapp.com/attachments/1148110702607859805/1490044087833853982/Screenshot_2026-04-04-12-53-56-045_com.google.android.googlequicksearchbox2.jpg?ex=69d3f0b2&is=69d29f32&hm=7abd984601855faac36ddba9855dea0d2a41bdfb1d29baa56dd07317bbc01834"  />
+###
 
 
-
-
+###
 <div align="left">
   <img src="https://github.com/mauriciospark/icones/blob/main/javascript.png" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -18,15 +18,15 @@
   <img width="12" />
   <img src="https://github.com/mauriciospark/icones/blob/main/markdown.png" height="30" alt="markdown logo"  />
 </div>
+###
 
-
-
+###
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
 </div>
-
+###
 
 
 <br clear="both">
