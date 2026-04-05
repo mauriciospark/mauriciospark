@@ -41,9 +41,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/mauriciospark/mauriciospark/main/github-metrics.svg" />
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciospark&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciospark&layout=compact&theme=dark&hide_langs=html,css" />
 </div>
 
 ###
