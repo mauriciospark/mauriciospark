@@ -17,6 +17,7 @@
   <img src="https://github.com/mauriciospark/icones/blob/main/css.png" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://github.com/mauriciospark/icones/blob/main/markdown.png" height="30" alt="markdown logo"  />
+  <img src="https://github.com/mauriciospark/icones/blob/main/php.png" height="30" alt="markdown logo"  />
 </div>
 ###
 
