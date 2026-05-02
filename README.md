@@ -5,7 +5,7 @@
 [![GitMon](https://gitmon.io/api/widget/mauriciospark)](https://gitmon.io)
 
 ###
-<img align="right" height="115" src="https://cdn.discordapp.com/attachments/1148110702607859805/1490044087833853982/Screenshot_2026-04-04-12-53-56-045_com.google.android.googlequicksearchbox2.jpg?ex=69d3f0b2&is=69d29f32&hm=7abd984601855faac36ddba9855dea0d2a41bdfb1d29baa56dd07317bbc01834"  />
+<img align="right" height="115" src="https://cdn.discordapp.com/attachments/1148110702607859805/1490044087833853982/Screenshot_2026-04-04-12-53-56-045_com.google.android.googlequicksearchbox2.jpg?ex=69f6e072&is=69f58ef2&hm=9a0352b8d7713d1d861082c5e29a57ed01186dabb51f08b430ebc8b3433c70f6"  />
 ###
 
 
