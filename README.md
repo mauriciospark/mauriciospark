@@ -2,6 +2,7 @@
 
 <h2 align="left">Olá, eu sou o Mauricio Spark! 💰💪😎</h2>
 
+[![GitMon](https://gitmon.io/api/widget/mauriciospark)](https://gitmon.io)
 
 ###
 <img align="right" height="115" src="https://cdn.discordapp.com/attachments/1148110702607859805/1490044087833853982/Screenshot_2026-04-04-12-53-56-045_com.google.android.googlequicksearchbox2.jpg?ex=69d3f0b2&is=69d29f32&hm=7abd984601855faac36ddba9855dea0d2a41bdfb1d29baa56dd07317bbc01834"  />
