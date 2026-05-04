@@ -3,7 +3,9 @@
 <h2 align="left">Olá, eu sou o Mauricio Spark! 💰💪😎</h2>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race.svg" alt="GitMon Snake" />
+  <a href="https://gitmon.io/?ref=mauriciospark">
+  <img src="https://gitmon.io/api/widgets/mauriciospark.svg" alt="Meu Monstrinho GitMon" />
+</a>
 </p>
 
 ###
