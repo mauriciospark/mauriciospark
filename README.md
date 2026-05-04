@@ -3,9 +3,9 @@
 <h2 align="left">Olá, eu sou o Mauricio Spark! 💰💪😎</h2>
 
 <p align="left">
-  <a href="https://gitmon.io/?ref=mauriciospark">
-  <img src="https://gitmon.io/api/widgets/mauriciospark.svg" alt="Meu Monstrinho GitMon" />
-</a>
+  <a href="https://gitmon.io/mauriciospark">
+    <img src="https://gitmon.io/api/widgets/mauriciospark.svg" alt="GitMon Fenrir" />
+  </a>
 </p>
 
 ###
