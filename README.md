@@ -2,11 +2,11 @@
 
 <h2 align="left">Olá, eu sou o Mauricio Spark! 💰💪😎</h2>
 
-<p align="left">
+<!--<p align="left">
   <a href="https://gitmon.io/mauriciospark">
     <img src="https://gitmon.io/api/widgets/mauriciospark.svg" alt="GitMon Fenrir" />
   </a>
-</p>
+</p>-->
 
 ###
 <img align="right" height="115" src="https://cdn.discordapp.com/attachments/1148110702607859805/1490044087833853982/Screenshot_2026-04-04-12-53-56-045_com.google.android.googlequicksearchbox2.jpg?ex=69f6e072&is=69f58ef2&hm=9a0352b8d7713d1d861082c5e29a57ed01186dabb51f08b430ebc8b3433c70f6"  />
