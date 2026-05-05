@@ -15,14 +15,14 @@
 
 ###
 <div align="left">
-  <img src="https://github.com/mauriciospark/icones/blob/main/javascript.png" height="30" alt="javascript logo"  />
+  <img src="https://github.com/mauriciospark/icones/blob/main/Javascript.png" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://github.com/mauriciospark/icones/blob/main/html.png" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://github.com/mauriciospark/icones/blob/main/css.png" height="30" alt="css3 logo"  />
+  <img src="https://github.com/mauriciospark/icones/blob/main/CSS.png" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/mauriciospark/icones/blob/main/markdown.png" height="30" alt="markdown logo"  />
-  <img src="https://github.com/mauriciospark/icones/blob/main/php.png" height="30" alt="markdown logo"  />
+  <img src="https://github.com/mauriciospark/icones/blob/main/Markdown.png" height="30" alt="markdown logo"  />
+  <img src="https://github.com/mauriciospark/icones/blob/main/php.png" height="30" alt="php logo"  />
 </div>
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
