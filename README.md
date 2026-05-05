@@ -3,8 +3,8 @@
 <h2 align="left">Olá, eu sou o Mauricio Spark! 💰💪😎</h2>
 
 <p align="left">
-  <a href="https://gitmon.io/mauriciospark">
-    <img src="https://gitmon.io/api/widgets/mauriciospark.svg" alt="GitMon Fenrir" />
+  <a href="https://gitmon.io/?ref=mauriciospark">
+    <img src="./assets/fenrir-egg.png" width="120" alt="GitMon Fenrir Egg" />
   </a>
 </p>
 
