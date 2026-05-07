@@ -4,7 +4,7 @@
   
 <p align="left">
   <a href="https://gitmon.io/?ref=mauriciospark">
-    <img src="https://gitmon.io/api/gitmon/mauriciospark" width="120" alt="GitMon _Fenrir Egg" />
+    <img src="mauriciospark/fenrir-egg.png" width="120" alt="GitMon _Fenrir Egg" />
   </a>
 </p>
 
