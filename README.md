@@ -9,7 +9,7 @@
 </p>-->
 
 
-<img align="right" height="115" src="https://cdn.discordapp.com/attachments/1148110702607859805/1490044087833853982/Screenshot_2026-04-04-12-53-56-045_com.google.android.googlequicksearchbox2.jpg?ex=69f6e072&is=69f58ef2&hm=9a0352b8d7713d1d861082c5e29a57ed01186dabb51f08b430ebc8b3433c70f6"  />
+<img align="right" height="115" src="https://cdn.discordapp.com/attachments/1148110702607859805/1490044087833853982/Screenshot_2026-04-04-12-53-56-045_com.google.android.googlequicksearchbox2.jpg?ex=6a1dc4b2&is=6a1c7332&hm=104c0e87d3bf4a823acc22ea9e0804d4ee163ee09da45b649545ef4995016f32"  />
 
 
 
