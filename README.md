@@ -9,7 +9,7 @@
 </p>-->
 
 
-<img align="right" height="115" src="https://cdn.discordapp.com/attachments/1148110702607859805/1490044087833853982/Screenshot_2026-04-04-12-53-56-045_com.google.android.googlequicksearchbox2.jpg?ex=6a1dc4b2&is=6a1c7332&hm=104c0e87d3bf4a823acc22ea9e0804d4ee163ee09da45b649545ef4995016f32"  />
+<img align="right" height="115" src="https://github.com/mauriciospark/mauriciospark/blob/main/spark.png"  />
 
 
 
