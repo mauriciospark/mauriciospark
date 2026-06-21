@@ -60,9 +60,7 @@
   alt="Github Stats"
    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mauriciospark&layout=compact&theme=dark&hide_langs=html,css&v=2&layout=compact&locale=pt-br" />
 </div>
-<br clear="both">
- 
-<br>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race-dark.svg">
