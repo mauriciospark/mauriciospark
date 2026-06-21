@@ -57,8 +57,16 @@
 
 <br clear="both">
 
-<img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mauriciospark&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&v=2&locale=pt-br&cache_bust=1" />
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mauriciospark&layout=compact&theme=highcontrast&hide_langs=html,css&v=2&layout=compact&locale=pt-br" /> 
+<table border="0">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mauriciospark&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&v=2&locale=pt-br&cache_bust=1" />
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mauriciospark&layout=compact&theme=highcontrast&hide_langs=html,css&v=2&layout=compact&locale=pt-br" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
