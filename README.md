@@ -55,7 +55,7 @@
 
 
 <div align="left">
-  <img height="200em" alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mauriciospark&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&v=2&cache_bust=1&include_all_commits=true&locale=pt-br" />
+  <img height="200em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mauriciospark&cache_seconds=1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&v=2&cache_bust=1&include_all_commits=true&locale=pt-br" />
   <img height="200em"
   alt="Github Stats"
    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mauriciospark&layout=compact&theme=highcontrast&hide_langs=html,css&v=2&layout=compact&locale=pt-br" />
