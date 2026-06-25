@@ -14,7 +14,7 @@
 
 
 <div align="left">
-  <img src="https://github.com/mauriciospark/icones/blob/main/Javascript.png" height="30" alt="javascript logo"  />
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/javascript.png" height="30" alt="spark logo"  />
   <img width="12" />
   <img src="https://github.com/mauriciospark/icones/blob/main/html.png" height="30" alt="html5 logo"  />
   <img width="12" />
