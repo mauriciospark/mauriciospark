@@ -16,11 +16,11 @@
 <div align="left">
   <img src="https://mauriciospark.github.io/coreIcons/fotos/javascript.png" height="30" alt="spark logo"  />
   <img width="12" />
-  <img src="https://github.com/mauriciospark/icones/blob/main/html.png" height="30" alt="html5 logo"  />
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/html.png" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://github.com/mauriciospark/icones/blob/main/CSS.png" height="30" alt="css3 logo"  />
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/css.png" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/mauriciospark/icones/blob/main/Markdown.png" height="30" alt="markdown logo"  />
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/markdown.png" height="30" alt="markdown logo"  />
   <img src="https://github.com/mauriciospark/icones/blob/main/php.png" height="30" alt="php logo"  />
 </div>
 
