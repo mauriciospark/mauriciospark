@@ -15,14 +15,16 @@
 
 <div align="left">
   <img src="https://mauriciospark.github.io/coreIcons/fotos/javascript.png" height="30" alt="spark logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://mauriciospark.github.io/coreIcons/fotos/html.png" height="30" alt="html5 logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://mauriciospark.github.io/coreIcons/fotos/css.png" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://mauriciospark.github.io/coreIcons/fotos/markdown.png" height="30" alt="markdown logo"  />
+  <img width="6" />
   <img src="https://mauriciospark.github.io/coreIcons/fotos/php.png" height="30" alt="php logo"  />
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/kalilinux.png" height="50" alt="kalilinux logo"/>
+  <img width="6" />
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/windows.png" height="50" alt="windows logo"/>
 </div>
 
     
