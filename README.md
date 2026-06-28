@@ -22,6 +22,7 @@
   <img width="12" />
   <img src="https://mauriciospark.github.io/coreIcons/fotos/markdown.png" height="30" alt="markdown logo"  />
   <img src="https://mauriciospark.github.io/coreIcons/fotos/php.png" height="30" alt="php logo"  />
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/kalilinux.png" height="50" alt="kalilinux logo"/>
 </div>
 
     
