@@ -15,14 +15,17 @@
 
 <div align="left">
   <img src="https://github.com/mauriciospark/icones/blob/main/Javascript.png" height="30" alt="javascript logo"  />
-  <img width="12" />
+    <img width="4" />
   <img src="https://github.com/mauriciospark/icones/blob/main/html.png" height="30" alt="html5 logo"  />
-  <img width="12" />
+    <img width="4" />
   <img src="https://github.com/mauriciospark/icones/blob/main/CSS.png" height="30" alt="css3 logo"  />
-  <img width="12" />
+    <img width="4" />
   <img src="https://github.com/mauriciospark/icones/blob/main/Markdown.png" height="30" alt="markdown logo"  />
+    <img width="4" />
   <img src="https://github.com/mauriciospark/icones/blob/main/php.png" height="30" alt="php logo"  />
+    <img width="4" />
   <img src="https://mauriciospark.github.io/coreIcons/fotos/windows.png" height="45" alt="windows logo"  />
+    <img width="4" />
 </div>
 
     
