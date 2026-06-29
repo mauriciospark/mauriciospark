@@ -14,17 +14,15 @@
 
 
 <div align="left">
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/javascript.png" height="30" alt="spark logo"  />
-  <img width="6" />
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/html.png" height="30" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/css.png" height="30" alt="css3 logo"  />
-  <img width="6" />
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/markdown.png" height="30" alt="markdown logo"  />
-  <img width="6" />
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/php.png" height="30" alt="php logo"  />
-  <img width="6" />
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/windows.png" height="50" alt="windows logo"/>
+  <img src="https://github.com/mauriciospark/icones/blob/main/Javascript.png" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/mauriciospark/icones/blob/main/html.png" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://github.com/mauriciospark/icones/blob/main/CSS.png" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://github.com/mauriciospark/icones/blob/main/Markdown.png" height="30" alt="markdown logo"  />
+  <img src="https://github.com/mauriciospark/icones/blob/main/php.png" height="30" alt="php logo"  />
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/windows.png" height="45" alt="windows logo"  />
 </div>
 
     
@@ -58,7 +56,7 @@
 
 
 <div align="left">
-  <img height="200em" alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mauriciospark&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&v=2&locale=pt-br&cache_bust=1" />
+  <img height="200em" alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mauriciospark&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&v=2&locale=pt-br&cache_bust=1" /><img height="200em" />
   <img height="200em"
   alt="Github Stats"
    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mauriciospark&layout=compact&theme=highcontrast&hide_langs=html,css&v=2&layout=compact&locale=pt-br" />
