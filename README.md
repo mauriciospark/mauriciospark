@@ -23,6 +23,8 @@
     <img width="4" />
   <img src="https://github.com/mauriciospark/icones/blob/main/php.png" height="30" alt="php logo"  />
     <img width="4" />
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="30" alt="github logo"  />
+    <img width="4" />
   <img src="https://mauriciospark.github.io/coreIcons/fotos/windows.png" height="45" alt="windows logo"  />
     <img width="4" />
 </div>
