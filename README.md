@@ -1,5 +1,4 @@
 <br clear="both">
-..
 <h2 align="left">Olá, eu sou o Mauricio Spark! 💰💪😎</h2>
   
 <!--<p align="left">
