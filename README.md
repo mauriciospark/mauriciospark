@@ -73,4 +73,4 @@
   <img alt="Minha Corrida de Commits" src="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race.svg">
 </picture>
 
-<br><br>
+<br><br><br>
