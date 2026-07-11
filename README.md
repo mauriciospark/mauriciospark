@@ -27,6 +27,8 @@
     <img width="4" />
   <img src="https://mauriciospark.github.io/coreIcons/fotos/windows.png" height="45" alt="windows logo"  />
     <img width="4" />
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/kalilinux.png" height="45" alt="kalilinux logo"  />
+    <img width="4" />
 </div>
 
     
