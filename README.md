@@ -1,6 +1,6 @@
 <br clear="both">
 <h2 align="left">Olá, eu sou o Mauricio Spark! 💰💪😎</h2>
-  
+  ...
 <!--<p align="left">
   <a href="https://github.com/mauriciospark/mauriciospark/blob/main/fenrir-egg.png">
     <img src="mauriciospark/fenrir-egg.png" width="120" alt="GitMon _Fenrir Egg" />
