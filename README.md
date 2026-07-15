@@ -1,5 +1,4 @@
 <br clear="both">
-......
 <h2 align="left">Olá, eu sou o Mauricio Spark! 💰💪😎</h2>
 <!--<p align="left">
   <a href="https://github.com/mauriciospark/mauriciospark/blob/main/fenrir-egg.png">
@@ -75,4 +74,4 @@
   <img alt="Minha Corrida de Commits" src="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race.svg">
 </picture>
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
