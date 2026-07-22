@@ -51,7 +51,7 @@
         />
     </a>
 
-
+,.
 <br clear="both">
 
 <picture>
@@ -73,3 +73,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race.svg">
   <img alt="Minha Corrida de Commits" src="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race.svg">
 </picture>
+
