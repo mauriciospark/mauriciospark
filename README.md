@@ -6,7 +6,6 @@
   </a>
 </p>-->
 
-.....
 <img align="right" height="115" src="https://github.com/mauriciospark/mauriciospark/blob/main/spark.png"  />
 
 
@@ -51,7 +50,7 @@
         />
     </a>
 
-.................
+.................................
 <br clear="both">
 
 <picture>
