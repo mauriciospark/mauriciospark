@@ -18,6 +18,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+  <a href="https://github.com/mauriciospark" title="Anar"><img src="https://avatars.githubusercontent.com/u/60632158?s=400&u=565ba6d5be35c1e2cea960e31bb3562d45e0e9f4&v=4" style="width:10%;max-width:52px;aspect-ratio:1/1;border-radius:50%;display:block;margin:0 auto;" alt="mauriciospark"/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race-dark.svg">
