@@ -2,6 +2,7 @@
 <h1>Olá, eu sou o Mauricio Spark! 💰💪😎</h1>
 
 <img align="right" height="100" src="https://github.com/mauriciospark/mauriciospark/blob/main/spark.jpg"  />
+<img align="right" height="100" src="https://github.com/mauriciospark/mauriciospark/blob/main/"  />
 
 <img src="https://mauriciospark.github.io/coreIcons/fotos/html.png" height="45" alt="html logo"  /> |
 <img src="https://mauriciospark.github.io/coreIcons/fotos/css.png" height="45" alt="css logo"  />
