@@ -1,4 +1,4 @@
-
+<img src="https://mauriciospark.github.io/coreIcons/fotos/dvc.png" height="45" alt="dvc logo"/>
 <h1>Olá, eu sou o Mauricio Spark! 💰💪😎</h1>
 
 <img align="right" height="100" src="https://github.com/mauriciospark/mauriciospark/blob/main/spark.jpg"/>
