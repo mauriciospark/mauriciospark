@@ -10,6 +10,7 @@
 <img src="https://mauriciospark.github.io/coreIcons/fotos/json.png" height="45" alt="json logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/microsoft.png" height="45" alt="microsoft logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/php.png" height="45" alt="php logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/drawio.png" height="45" alt="drawio logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/bunny.png" height="45" alt="bunny logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" alt="github logo"/>
 
