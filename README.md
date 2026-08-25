@@ -12,7 +12,6 @@
 <img src="https://mauriciospark.github.io/coreIcons/fotos/php.png" height="45" alt="php logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/drawio.png" height="45" alt="drawio logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/terminalw.png" height="45" alt="terminalw logo">
-<img src="https://mauriciospark.github.io/coreIcons/fotos/bunny.png" height="45" alt="bunny logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" alt="github logo"/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mauriciosouzzapeixoto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-de-souza-peixoto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauriciosouzzapeixoto@gmail.com) 
