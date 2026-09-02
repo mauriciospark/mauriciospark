@@ -15,7 +15,9 @@
 <img src="https://mauriciospark.github.io/coreIcons/fotos/terminalw.png" height="45" alt="terminalw logo">
 <img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" height="45" alt="github logo"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mauriciosouzzapeixoto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-de-souza-peixoto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauriciosouzzapeixoto@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/spark-mauricio/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mauriciosouzzapeixoto)|
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-de-souza-peixoto)|
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauriciosouzzapeixoto@gmail.com)| [![LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/spark-mauricio/)
 
 ![](https://github-readme-stats.shion.dev/api?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
