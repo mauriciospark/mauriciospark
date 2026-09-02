@@ -3,7 +3,7 @@
 <img align="right" height="100" src="https://github.com/mauriciospark/mauriciospark/blob/main/spark.jpg"/>
 <img align="right" height="100" src="https://github.com/mauriciospark/mauriciospark/blob/main/shielh.png"/>
 
-<img src="https://mauriciospark.github.io/coreIcons/fotos/android.png" height="45" alt="android logo"/> |
+<img src="https://mauriciospark.github.io/coreIcons/fotos/html.png" height="45" alt="android logo"/> |
 <img src="https://mauriciospark.github.io/coreIcons/fotos/css.png" height="45" alt="css logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/javascript.png" height="45" alt="javascript logo"/>
 <img src="https://mauriciospark.github.io/coreIcons/fotos/markdown.png" height="45" alt="markdown logo"/>
