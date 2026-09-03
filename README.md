@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Mauricio Spark! 💰💪😎</h1>
+<h1>Hi, I'm Mauricio Spark! 💰💪😎</h1>
 
 <img align="right" height="100" src="https://github.com/mauriciospark/mauriciospark/blob/main/spark.jpg"/>
 <img align="right" height="100" src="https://github.com/mauriciospark/mauriciospark/blob/main/shielh.png"/>
