@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-de-souza-peixoto)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauriciosouzzapeixoto@gmail.com) [![LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/spark-mauricio/)
 
-![](https://github-readme-stats.shion.dev/api?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false-1)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
