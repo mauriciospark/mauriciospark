@@ -19,21 +19,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-de-souza-peixoto)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauriciosouzzapeixoto@gmail.com) [![LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/spark-mauricio/)
 
-<p align="left">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=mauriciospark&theme=bear&showIcons=true">
-    <img alt="Mauricio Spark's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mauriciospark?theme=highcontrast"/>
-  </a>
-</p>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+<!-- TABELA INVISÍVEL PARA ALINHAR OS QUADROS LADO A LADO SEM QUEBRAR -->
+<table border="0">
+  <tr>
+    <td valign="top">
+      <!-- SEU QUADRO 1 (Intacto) -->
+      <p align="left">
+        <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=mauriciospark&theme=bear&showIcons=true">
+          <img alt="Mauricio Spark's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mauriciospark?theme=highcontrast"/>
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <!-- SEU QUADRO 2 (Intacto) -->
+      <p align="left">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race-dark.svg" >
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race.svg">
   <img alt="Minha Corrida de Commits" src="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race.svg">
 </picture>
-
 
 -----------------------------------------------------------------
