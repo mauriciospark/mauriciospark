@@ -19,8 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-de-souza-peixoto)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauriciosouzzapeixoto@gmail.com) [![LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/spark-mauricio/)
 
-  
-![](https://github-readme-stats.shion.dev/api?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mauriciospark?cardType=level&theme=highcontrast&fontFamily=&preferLogin=false&Points.Commits=2&Points.ContributedToNotOwnerRepositories=1&Points.DirectStars=4&Points.PullRequests=3&Points.PullRequestsToAnotherRepositories=1&Points.CommitsToMyRepositories=2&Points.CommitsToAnotherRepositories=2)](https://git.io/awesome-stats-card)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mauriciospark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture>
