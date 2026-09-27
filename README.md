@@ -1,4 +1,4 @@
-### Olá, eu sou o(a) mauriciospark!
+### Olá, eu sou o mauriciospark!
 
 
 ![Tecnologias](./tech-icons.svg)
