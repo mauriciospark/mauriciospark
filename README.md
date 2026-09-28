@@ -19,8 +19,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-de-souza-peixoto)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauriciosouzzapeixoto@gmail.com) [![LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/spark-mauricio/)
 
- ![Meus stats do GitHub](./github-cards.svg)
- 
+![Meus stats do GitHub](./github-cards.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race-dark.svg" >
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciospark/mauriciospark/output/moto-race.svg">
